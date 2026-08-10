@@ -1,5 +1,5 @@
 // Change this if your backend runs on a different port
-const API_BASE = 'https://task-management-api-kv7h.onrender.com';
+const API_BASE = 'https://task-management-api-kv7h.onrender.com/api';
 
 // ---- Element references ----
 const authScreen = document.getElementById('authScreen');
